@@ -22,9 +22,9 @@
 
 🤝 Let's Connect!
 
-- 💼 LinkedIn: [My LinkedIn Profile](YOUR_LINKEDIN_URL)
-- 📧 Email: YOUR_EMAIL_ADDRESS
-- 🐙 GitHub: [My GitHub Profile](https://github.com/YOUR_USERNAME)
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/shubh-daga-087981322/)
+- 📧 Email: shubhdaga030@gmail.com
+- 🐙 GitHub: [My GitHub Profile](https://github.com/shubh4-oss)
 
 ---
 
